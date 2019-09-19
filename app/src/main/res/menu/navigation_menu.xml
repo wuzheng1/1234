@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="识别历史"></item>
+    <item android:title="相关设置"></item>
+    <item android:title="反馈建议"></item>
+    <item android:title="关于我们"></item>
+
+</menu>
